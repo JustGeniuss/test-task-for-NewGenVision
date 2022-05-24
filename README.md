@@ -1,1 +1,2 @@
-# test-task-for-NewGenVision
+Тестовое задание для компании NewGenVision.
+Команда для запуска тестов - npm test.
